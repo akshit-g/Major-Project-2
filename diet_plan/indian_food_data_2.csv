@@ -1,0 +1,21 @@
+name,calories,protein,carbohydrates,fat,serving_size,food_group,meal_type,recipe,region
+Aloo Gobi,150,3.5,15,8,100,Vegetable,Lunch,Sauté cumin and turmeric in oil. Add potatoes and cauliflower. Cook with tomatoes until tender.,North Indian
+Butter Chicken,325,28,10,17,100,Protein,Lunch,Marinate chicken in yogurt and spices. Cook with butter and tomato-cream sauce. Simmer until thick.,North Indian
+Chana Masala,180,7.5,30,6,100,Protein,Lunch,Cook chickpeas with onions and tomatoes. Season with cumin and coriander. Simmer until flavorful.,North Indian
+Dal Makhani,230,9,31,9,100,Protein,Lunch,Cook black lentils and kidney beans. Simmer with butter and cream. Add spices and stir.,North Indian
+Palak Paneer,190,11,6,12.5,100,Protein,Lunch,Blanch and puree spinach. Cook with paneer and cream. Season with cumin and garam masala.,North Indian
+Roti,120,3,18,3.7,30,Grain,Breakfast,Knead whole wheat flour with water. Roll into flatbreads. Cook on a hot griddle.,All
+Naan,260,9,33,11,80,Grain,Lunch,"Mix flour, yeast, and milk into dough. Roll out and bake in oven. Brush with butter.",North Indian
+Basmati Rice,150,3.5,32,0.5,100,Grain,Lunch,Rinse basmati rice thoroughly. Boil with water. Simmer until fully cooked.,All
+Idli,58,2,12,0.2,40,Grain,Breakfast,"Soak rice and urad dal, grind into batter. Ferment overnight. Steam in molds.",South Indian
+Dosa,133,3.7,25.2,3.8,100,Grain,Breakfast,Prepare fermented rice and urad dal batter. Spread thinly on hot griddle. Cook until crispy.,South Indian
+Sambar,152,3.8,28,5.6,100,Vegetable,Breakfast,Cook lentils with tamarind and vegetables. Season with sambar spices. Simmer until thick.,South Indian
+Raita,75,3.5,3.5,5,100,Dairy,Lunch,Mix yogurt with chopped cucumber. Season with roasted cumin and salt. Stir well.,All
+Biryani,292,9.5,46,9,100,Mixed,Lunch,Marinate chicken with yogurt and spices. Layer with partially cooked rice. Cook on low heat.,East Indian
+Tandoori Chicken,165,31,0,3.6,100,Protein,Lunch,Marinate chicken in yogurt and tandoori spices. Grill or bake until charred. Serve hot.,North Indian
+Vada,97,2.2,16.3,3.9,35,Snack,Snack,Soak urad dal and grind into batter. Shape into doughnuts and deep-fry. Serve with chutney.,South Indian
+Uttapam,188,5.3,28.5,7.2,100,Grain,Breakfast,"Prepare fermented rice and urad dal batter. Spread thickly, top with vegetables. Cook on griddle.",South Indian
+Upma,185,3.5,31,7,100,Grain,Breakfast,"Roast semolina, sauté with spices and vegetables. Cook with water until soft.",South Indian
+Poha,270,5.2,44,12,100,Grain,Breakfast,"Rinse flattened rice. Sauté with onions, peanuts, and spices. Cook until fluffy.",West Indian
+Pav Bhaji,210,6,22.7,12,100,Mixed,Lunch,Mash boiled vegetables with spices and butter. Cook into thick gravy. Serve with toasted buns.,West Indian
+Chole Bhature,427,13.2,57.2,20,120,Mixed,Lunch,Cook chickpeas in spiced tomato gravy. Deep-fry flour dough into bhature. Serve together.,North Indian
