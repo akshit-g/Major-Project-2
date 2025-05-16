@@ -1,5 +1,5 @@
 name,calories,protein,carbohydrates,fat,serving_size,food_group,meal_type,recipe,region
-Aloo Gobi,150,3.5,15,8,100,Vegetable,Lunch,Sauté cumin and turmeric in oil. Add potatoes and cauliflower. Cook with tomatoes until tender.,North Indian
+Aloo Gobi,150,3.5,15,8,100,Vegetable,Lunch,Saute cumin and turmeric in oil. Add potatoes and cauliflower. Cook with tomatoes until tender.,North Indian
 Butter Chicken,325,28,10,17,100,Protein,Lunch,Marinate chicken in yogurt and spices. Cook with butter and tomato-cream sauce. Simmer until thick.,North Indian
 Chana Masala,180,7.5,30,6,100,Protein,Lunch,Cook chickpeas with onions and tomatoes. Season with cumin and coriander. Simmer until flavorful.,North Indian
 Dal Makhani,230,9,31,9,100,Protein,Lunch,Cook black lentils and kidney beans. Simmer with butter and cream. Add spices and stir.,North Indian
@@ -19,3 +19,143 @@ Upma,185,3.5,31,7,100,Grain,Breakfast,"Roast semolina, sauté with spices and ve
 Poha,270,5.2,44,12,100,Grain,Breakfast,"Rinse flattened rice. Sauté with onions, peanuts, and spices. Cook until fluffy.",West Indian
 Pav Bhaji,210,6,22.7,12,100,Mixed,Lunch,Mash boiled vegetables with spices and butter. Cook into thick gravy. Serve with toasted buns.,West Indian
 Chole Bhature,427,13.2,57.2,20,120,Mixed,Lunch,Cook chickpeas in spiced tomato gravy. Deep-fry flour dough into bhature. Serve together.,North Indian
+Aloo Paratha,290,6.5,38,12,100,Grain,Breakfast,Stuff spiced mashed potatoes in wheat dough. Roll and pan-fry with ghee until golden.,North Indian
+Bedmi Puri,310,7.2,35,16,100,Mixed,Breakfast,Prepare urad dal stuffing for wheat dough. Roll and deep-fry into puris. Serve with sabzi.,North Indian
+Chole Kulche,320,11,42,14,120,Mixed,Breakfast,Cook chickpeas with spices. Serve with soft fermented flour breads. Garnish with onions.,North Indian
+Paneer Bhurji,210,13,6,14,100,Protein,Breakfast,"Crumble paneer and Saute with onions, tomatoes, and spices until well-mixed.",North Indian
+Moong Dal Chilla,180,9,20,6,100,Protein,Breakfast,Grind soaked moong dal into batter. Pour thin rounds on a hot griddle. Cook till crisp.,North Indian
+Methi Thepla,250,5.5,33,10,100,Grain,Breakfast,Mix fenugreek leaves with wheat flour and spices. Roll out and pan-cook until done.,North Indian
+Suji Halwa,290,4.2,38,15,100,Dessert,Breakfast,Roast semolina in ghee. Add sugar and water. Cook until thick and aromatic.,North Indian
+Dhokla,160,6,28,3.5,100,Grain,Breakfast,Ferment gram flour batter. Steam until spongy. Temper with mustard seeds and curry leaves.,North Indian
+Aloo Puri,330,5,40,17,120,Mixed,Breakfast,Deep-fry wheat puris. Serve with spiced potato curry cooked in tomatoes.,North Indian
+Boiled Egg Sandwich,230,12,26,9,100,Protein,Breakfast,Chop boiled eggs. Mix with spices and spread between toasted bread slices.,North Indian
+Rajma Masala,210,8.5,32,6.5,100,Protein,Lunch,"Cook kidney beans with onions, tomatoes, and spices. Simmer until thick.",North Indian
+Kadai Paneer,250,13,12,16,100,Protein,Lunch,"Saute paneer with bell peppers, onions, and spices in a tomato-based sauce.",North Indian
+Jeera Rice,170,3,34,3,100,Grain,Lunch,Saute cumin seeds in ghee. Add soaked rice and cook until fluffy.,North Indian
+Bhindi Masala,160,4,10,11,100,Vegetable,Lunch,"Saute okra with onions, tomatoes, and spices until tender and flavorful.",North Indian
+Matar Paneer,240,10,14,15,100,Protein,Lunch,Cook paneer and green peas in a spiced tomato-onion gravy.,North Indian
+Lauki Kofta,220,5,10,16,100,Vegetable,Lunch,Deep-fry bottle gourd dumplings. Cook in creamy tomato gravy.,North Indian
+Aloo Baingan,190,4.2,20,10,100,Vegetable,Lunch,"Cook eggplant and potatoes with cumin, turmeric, and tomatoes.",North Indian
+Malai Kofta,310,8,18,22,100,Mixed,Lunch,Fry paneer-potato balls. Serve in a rich cream and tomato-based gravy.,North Indian
+Kadhi Pakora,200,6,18,11,100,Mixed,Lunch,Cook gram flour yogurt curry with fried pakoras. Simmer until thick.,North Indian
+Baingan Bharta,180,4.5,14,10,100,Vegetable,Lunch,"Roast and mash eggplant. Cook with tomatoes, onions, and spices.",North Indian
+Samosa,270,4,28,15,100,Mixed,Snack,Fill pastry with spiced potatoes and peas. Deep-fry until golden brown.,North Indian
+Pakora,190,3.5,18,11,100,Mixed,Snack,Dip vegetables in spiced gram flour batter and deep-fry until crispy.,North Indian
+Aloo Tikki,210,4.2,22,10,100,Vegetable,Snack,Mash potatoes with spices. Shape into patties and shallow fry.,North Indian
+Dahi Bhalla,230,6,20,11,100,Dairy,Snack,Soak fried lentil balls in yogurt. Top with chutneys and spices.,North Indian
+Chaat Papdi,250,5,32,12,100,Mixed,Snack,"Assemble fried dough crisps with yogurt, potatoes, chutneys, and spices.",North Indian
+Kachori,290,6,30,16,100,Mixed,Snack,Stuff flour dough with spiced lentil mix. Deep-fry until puffed.,North Indian
+Bread Pakora,260,6.5,28,14,100,Mixed,Snack,Sandwich spiced potato filling in bread. Dip in gram flour batter and fry.,North Indian
+Mathri,240,4,22,14,100,Grain,Snack,Knead spiced flour dough. Roll and deep-fry into crisp rounds.,North Indian
+Matar Kachori,280,5.5,29,15,100,Mixed,Snack,Fill dough with spiced green peas. Deep-fry until golden.,North Indian
+Bhel Puri,180,3,26,7,100,Mixed,Snack,"Mix puffed rice with onions, tomatoes, chutneys, and sev.",North Indian
+Shahi Paneer,310,12,14,22,100,Protein,Dinner,Cook paneer in a creamy cashew-tomato gravy. Season with garam masala.,North Indian
+Kofta Curry,320,9,18,20,100,Mixed,Dinner,Fry mixed veggie dumplings. Simmer in rich spiced gravy.,North Indian
+Bhindi Do Pyaza,170,3.5,12,9,100,Vegetable,Dinner,Saute okra with double onions and spices. Cook until well done.,North Indian
+Methi Malai Murg,290,25,10,18,100,Protein,Dinner,Cook chicken in creamy fenugreek sauce with spices. Simmer until tender.,North Indian
+Gobhi Masala,190,4,16,10,100,Vegetable,Dinner,Saute cauliflower with tomatoes and garam masala until cooked.,North Indian
+Achari Paneer,240,10,9,15,100,Protein,Dinner,Cook paneer with pickling spices and tangy tomato base.,North Indian
+Tandoori Roti,130,3.5,22,2.5,60,Grain,Dinner,Make whole wheat dough. Flatten and bake in a tandoor until blistered.,North Indian
+Mix Veg Curry,210,6,18,11,100,Vegetable,Dinner,Cook assorted vegetables in tomato-onion gravy with spices.,North Indian
+Chicken Korma,330,27,12,20,100,Protein,Dinner,Simmer chicken in a creamy almond-cashew gravy with aromatic spices.,North Indian
+Vegetable Pulao,200,4,32,6,100,Grain,Dinner,Cook rice with mixed vegetables and whole spices.,North Indian
+Pesarattu,200,9,24,6,100,Grain,Breakfast,Grind green gram into batter. Spread on griddle. Cook like dosa.,South Indian
+Rava Idli,150,4,27,5,100,Grain,Breakfast,"Mix semolina, yogurt, and spices. Steam until fluffy.",South Indian
+Aval Upma,180,3.2,30,6,100,Grain,Breakfast,"Soak flattened rice. Saute with mustard, curry leaves, and veggies.",South Indian
+Tomato Dosa,170,3.5,28,4.5,100,Grain,Breakfast,Blend rice with tomatoes and spices. Cook on griddle.,South Indian
+Ragi Mudde,220,2.5,40,2,100,Grain,Breakfast,Cook ragi flour in water to a thick dough. Shape into balls.,South Indian
+Neer Dosa,130,2.5,24,2.5,100,Grain,Breakfast,Blend soaked rice. Make thin batter. Cook on pan without oil.,South Indian
+Coconut Chutney,90,2,4,7,50,Vegetable,Breakfast,Blend coconut with chilies and ginger. Temper with mustard seeds.,South Indian
+Kharabath,200,4,30,8,100,Grain,Breakfast,"Cook semolina with tomatoes, spices, and vegetables.",South Indian
+Paniyaram,160,3.2,26,4,100,Grain,Breakfast,Use dosa batter. Pour into appe pan and cook until golden.,South Indian
+Ven Pongal,250,6,32,10,100,Grain,Breakfast,"Cook rice and moong dal. Temper with pepper, ginger, and ghee.",South Indian
+Rasam,110,3,14,4,100,Vegetable,Lunch,Boil tamarind water with spices and tomatoes. Temper with mustard seeds.,South Indian
+Avial,190,4,10,12,100,Vegetable,Lunch,Cook mixed vegetables with coconut-yogurt gravy. Finish with curry leaves.,South Indian
+Tomato Rice,210,4,36,7,100,Grain,Lunch,Saute tomatoes with spices. Mix with cooked rice.,South Indian
+Cabbage Poriyal,160,3.2,10,9,100,Vegetable,Lunch,"Stir-fry cabbage with mustard, chilies, and coconut.",South Indian
+Paruppu (Dal),140,6,18,4,100,Protein,Lunch,"Boil toor dal with turmeric. Add tempered mustard, cumin, and garlic.",South Indian
+Beans Thoran,150,3,8,8,100,Vegetable,Lunch,"Saute beans with coconut, mustard, and curry leaves.",South Indian
+Coconut Rice,200,3.5,34,6,100,Grain,Lunch,"Saute grated coconut, mustard seeds, and mix with cooked rice.",South Indian
+Lemon Rice,190,3.5,32,5,100,Grain,Lunch,"Saute mustard, chilies, and mix with lemon juice and rice.",South Indian
+Mor Kuzhambu,180,4.5,10,11,100,Dairy,Lunch,Cook buttermilk curry with coconut paste and tempered spices.,South Indian
+Egg Curry,240,13,10,16,100,Protein,Lunch,Boil eggs. Cook with coconut-based spicy gravy.,South Indian
+Murukku,200,4,22,10,50,Snack,Snack,Mix rice and urad flour. Shape and deep-fry into crisp spirals.,South Indian
+Banana Chips,190,1.2,18,12,50,Snack,Snack,Slice raw bananas. Deep-fry and sprinkle with salt.,South Indian
+Sundal,160,7,18,6,100,Protein,Snack,"Boil chickpeas. Toss with coconut, mustard, and curry leaves.",South Indian
+Masala Vada,220,6,22,12,100,Snack,Snack,Make dough from chana dal and spices. Flatten and deep-fry.,South Indian
+Medu Vada,240,5,20,14,100,Snack,Snack,Make urad dal batter. Shape into doughnuts and deep-fry.,South Indian
+Thattai,210,3,20,13,50,Snack,Snack,Mix rice flour with spices. Flatten and deep-fry until crisp.,South Indian
+Onion Pakoda,230,4,19,15,100,Snack,Snack,Coat sliced onions in gram flour batter. Deep-fry until golden.,South Indian
+Ribbon Pakoda,220,3.5,21,13,100,Snack,Snack,Prepare dough with rice flour. Press through mold and deep-fry.,South Indian
+Masala Peanuts,210,8,10,14,50,Protein,Snack,Coat peanuts in spicy gram flour mix. Deep-fry until crisp.,South Indian
+Kara Boondi,190,3,20,11,50,Snack,Snack,Fry chickpea flour droplets. Toss with curry leaves and chili.,South Indian
+Chettinad Chicken,330,26,8,20,100,Protein,Dinner,"Cook chicken with Chettinad spices, onions, and black pepper.",South Indian
+Vegetable Stew,190,4,15,10,100,Vegetable,Dinner,Simmer vegetables in coconut milk with whole spices.,South Indian
+Appam,160,2.5,34,3,100,Grain,Dinner,Ferment rice and coconut batter. Cook in small curved pans.,South Indian
+Curd Rice,210,6,32,7,100,Dairy,Dinner,"Mix cooked rice with yogurt. Temper with mustard, chilies, curry leaves.",South Indian
+Fish Curry,280,22,6,18,100,Protein,Dinner,Cook fish in tangy tamarind and coconut-based gravy.,South Indian
+Brinjal Fry,180,2.5,12,12,100,Vegetable,Dinner,Slice and fry brinjals with chili and turmeric.,South Indian
+Tomato Rasam Rice,200,4,30,6,100,Grain,Dinner,Pour rasam over rice. Mix with ghee and serve hot.,South Indian
+Pepper Chicken,310,25,6,18,100,Protein,Dinner,"Saute chicken with crushed pepper, curry leaves, and garlic.",South Indian
+Drumstick Sambar,170,4,24,5,100,Vegetable,Dinner,Cook lentils and drumsticks in tamarind broth with sambar spices.,South Indian
+Beans Mezhukkupuratti,160,3.5,10,8,100,Vegetable,Dinner,"Stir-fry beans with garlic, chilies, and coconut oil.",South Indian
+Thepla,220,4.5,32,8,100,Grain,Breakfast,"Mix wheat flour with fenugreek, spices, and yogurt. Roll and cook on tawa.",West Indian
+Sabudana Khichdi,250,4,36,10,100,Grain,Breakfast,"Soak sabudana. Saute with peanuts, potatoes, cumin, and green chilies.",West Indian
+Handvo,230,6,24,11,100,Mixed,Breakfast,Ferment mixed lentils and rice. Bake with vegetables and sesame topping.,West Indian
+Dhokla,160,6,28,3.5,100,Grain,Breakfast,Ferment gram flour batter. Steam until spongy. Temper with mustard seeds.,West Indian
+Muthiya,200,5.2,22,9,100,Grain,Breakfast,Mix grated vegetables with wheat flour and spices. Steam and pan-fry.,West Indian
+Undhiyu,290,7,28,17,100,Mixed,Lunch,Cook mixed winter vegetables with fenugreek dumplings and spices.,West Indian
+Dal Dhokli,260,9,30,10,100,Mixed,Lunch,Add wheat flour dumplings to spiced toor dal. Simmer until soft.,West Indian
+Vaal Nu Shaak,210,8,18,10,100,Protein,Lunch,"Cook field beans with spices, garlic, and coconut.",West Indian
+Bharli Vangi,250,5,10,18,100,Vegetable,Lunch,Stuff small eggplants with spiced peanut-coconut mix. Cook until tender.,West Indian
+Sev Tameta,230,4,20,14,100,Vegetable,Lunch,Cook tomatoes with spices. Top with crispy sev before serving.,West Indian
+Kanda Bhaji,240,3,22,15,100,Snack,Snack,Slice onions and mix with spiced gram flour. Deep-fry until golden.,West Indian
+Dabeli,300,6,35,14,120,Mixed,Snack,"Stuff spiced potato mix in bun. Top with chutneys, onions, and sev.",West Indian
+Batata Vada,280,4.5,26,16,100,Snack,Snack,Dip spiced mashed potato balls in batter. Deep-fry until crisp.,West Indian
+Fafda,210,6,20,10,100,Snack,Snack,Make gram flour dough. Flatten and deep-fry into crisp strips.,West Indian
+Mirchi Bhaji,220,3.5,19,13,100,Snack,Snack,Stuff green chilies with spices. Dip in gram flour batter and fry.,West Indian
+Gujarati Kadhi,180,5,12,10,100,Dairy,Dinner,"Cook yogurt and gram flour with ginger, green chili, and curry leaves.",West Indian
+Pithla,200,6,16,10,100,Protein,Dinner,Cook gram flour with spices and water to a thick paste.,West Indian
+Bhakri,180,3.5,28,5,100,Grain,Dinner,Make thick flatbreads using jowar or bajra flour. Cook on tawa.,West Indian
+Masala Bhaat,220,5,32,8,100,Grain,Dinner,"Cook rice with spices, vegetables, and goda masala.",West Indian
+Tendli Bhaat,210,4.5,30,7,100,Vegetable,Dinner,Cook ivy gourd with rice and coconut-based spice mix.,West Indian
+Chire Bhaja,180,2.5,28,7,100,Grain,Breakfast,Lightly fry flattened rice with peanuts and green chilies.,East Indian
+Luchi,270,4,26,16,100,Grain,Breakfast,Deep-fry refined flour dough into puffed breads.,East Indian
+Ghugni,210,6.5,24,8,100,Protein,Breakfast,"Boil yellow peas. Saute with onion, tomato, and spices.",East Indian
+Chirer Pulao,200,3,32,6,100,Grain,Breakfast,"Cook flattened rice with veggies, turmeric, and mustard seeds.",East Indian
+Panta Bhaat,160,2,30,1,100,Grain,Breakfast,Ferment cooked rice overnight in water. Serve with salt and chilies.,East Indian
+Shukto,180,4,16,8,100,Vegetable,Lunch,Cook mixed vegetables in mildly bitter mustard-paste gravy.,East Indian
+Maacher Jhol,240,22,6,14,100,Protein,Lunch,Simmer fish in light turmeric and tomato-based curry.,East Indian
+Aloo Posto,200,3,10,14,100,Vegetable,Lunch,Cook potatoes with poppy seed paste and mustard oil.,East Indian
+Cholar Dal,220,8,26,10,100,Protein,Lunch,"Boil chana dal. Add fried coconut, ginger, and whole spices.",East Indian
+Bhaat with Begun Bhaja,230,5,32,10,100,Grain,Lunch,Serve plain rice with fried eggplant slices in mustard oil.,East Indian
+Jhalmuri,170,3,26,6,100,Snack,Snack,"Mix puffed rice with mustard oil, peanuts, onions, and green chilies.",East Indian
+Mochar Chop,220,5,20,13,100,Snack,Snack,Fry banana blossom patties with spices and breading.,East Indian
+Vegetable Chop,240,4.5,22,14,100,Snack,Snack,Deep-fry beetroot and potato mix coated in breadcrumbs.,East Indian
+Piyaji,230,3.8,18,15,100,Snack,Snack,Mix onion slices with besan and spices. Deep-fry in hot oil.,East Indian
+Telebhaja,250,4,22,16,100,Snack,Snack,"Batter-fry seasonal vegetables like pumpkin, eggplant, or potato.",East Indian
+Kosha Mangsho,330,26,6,20,100,Protein,Dinner,Slow-cook mutton in onion-ginger-garlic base with garam masala.,East Indian
+Chingri Malai Curry,290,20,10,18,100,Protein,Dinner,"Cook prawns in coconut milk with cinnamon, cardamom, and turmeric.",East Indian
+Enchorer Dalna,240,6,16,14,100,Vegetable,Dinner,Cook raw jackfruit with potatoes in tomato-spice gravy.,East Indian
+Pulao,220,4,34,7,100,Grain,Dinner,"Cook fragrant basmati rice with ghee, raisins, and whole spices.",East Indian
+Doi Maachh,260,22,5,15,100,Protein,Dinner,Simmer fish in yogurt-based curry with minimal spices.,East Indian
+Paratha,270,6,30,13,100,Grain,Breakfast,Stuff whole wheat dough with potato or paneer. Roll and cook with ghee.,All
+Boiled Eggs,140,13,1,9,100,Protein,Breakfast,Boil eggs in water. Peel and serve with salt or masala.,All
+Vegetable Sandwich,180,5,24,6,100,Mixed,Breakfast,"Layer bread with butter, cucumber, tomato, and chutney.",All
+Milk & Cornflakes,160,5,28,3,100,Dairy,Breakfast,Pour milk over cornflakes. Add fruits or sugar if desired.,All
+Banana Smoothie,210,4,30,8,200,Dairy,Breakfast,Blend banana with milk and honey until smooth.,All
+Mixed Veg Curry,220,5,18,12,100,Vegetable,Lunch,Saute assorted vegetables with onion-tomato gravy and Indian spices.,All
+Plain Rice,150,3.5,32,0.5,100,Grain,Lunch,Boil white rice in water until soft. Drain and serve.,All
+Curd,80,3.5,4,4,100,Dairy,Lunch,Ferment milk overnight until set. Serve chilled.,All
+Green Salad,60,2,6,2,100,Vegetable,Lunch,"Chop cucumber, tomato, carrot. Season with salt and lemon juice.",All
+Moong Dal,160,8,18,4,100,Protein,Lunch,Cook moong dal with turmeric. Temper with cumin and garlic.,All
+Fruit Chaat,130,2,28,1,100,Fruit,Snack,Mix chopped seasonal fruits. Sprinkle chaat masala and lemon juice.,All
+Masala Corn,150,3,22,5,100,Vegetable,Snack,"Boil sweet corn. Toss with butter, salt, chili, and lemon juice.",All
+Roasted Peanuts,180,7,8,14,50,Protein,Snack,Roast peanuts in pan. Add salt or masala as desired.,All
+Bhel,170,3,24,6,100,Mixed,Snack,"Combine puffed rice, onions, chutneys, and sev. Mix well.",All
+Vegetable Cutlet,210,4.5,20,12,100,Snack,Snack,"Mash vegetables, coat in crumbs, and shallow fry or bake.",All
+Khichdi,230,8,32,6,100,Mixed,Dinner,Cook rice and lentils with spices and vegetables into a soft porridge.,All
+Chapati,120,3,18,3,30,Grain,Dinner,Roll out whole wheat dough. Cook on tawa without oil.,All
+Paneer Bhurji,250,12,10,18,100,Protein,Dinner,"Crumble paneer and cook with onions, tomatoes, and spices.",All
+Mixed Dal,210,10,20,7,100,Protein,Dinner,"Combine various dals. Cook and temper with mustard, garlic, and chili.",All
+Jeera Rice,190,4,32,4,100,Grain,Dinner,Cook rice with cumin seeds and ghee.,All

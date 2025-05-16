@@ -15,7 +15,7 @@ def generate_plan(weight, height, age, gender, workout_days, goal):
     body_fat = calculate_body_fat(bmi, age, gender)
     
     # Load workout plans from CSV
-    workout_plans_df = pd.read_csv("workout_plans_3.csv")
+    workout_plans_df = pd.read_csv(r"C:\Users\akshg\Desktop\Major 2\workout_coach\workout_plans_3.csv")
     
     # Filter the workout plan based on goal and days
     workout_plan_row = workout_plans_df[

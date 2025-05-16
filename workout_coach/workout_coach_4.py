@@ -24,7 +24,7 @@ def generate_plan(weight, height, age, gender, workout_days, goal):
     age_group = determine_age_group(age)
     
     # Load workout plans from CSV
-    workout_plans_df = pd.read_csv("workout_plans_4.csv")
+    workout_plans_df = pd.read_csv(r"C:\Users\akshg\Desktop\Major 2\workout_coach\workout_plans_4.csv")
     
     # Print input parameters for debugging
     print(f"Inputs: weight={weight}, height={height}, age={age}, gender={gender}, workout_days={workout_days}, goal={goal}, age_group={age_group}")

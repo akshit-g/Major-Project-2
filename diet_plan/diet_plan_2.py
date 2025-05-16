@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 
 # Load the Indian food dataset from CSV
 try:
-    food_df = pd.read_csv('diet_plan\indian_food_data_2.csv')
+    food_df = pd.read_csv(r"C:\Users\akshg\Desktop\Major 2\diet_plan\indian_food_data_2.csv")
     print(f"Successfully loaded dataset with {len(food_df)} items")
     
     # Clean and prepare dataset
@@ -164,8 +164,9 @@ def share_plan(plan):
     return f"Check out my Indian Meal Plan!\n\n{plan}"
 
 # Gradio Interface
-with gr.Blocks(theme=gr.themes.Soft(primary_hue="orange", secondary_hue="green"), 
-               css=".gr-button {border-radius: 10px;} .header {color: #FF5733; font-size: 2em;}") as app:
+# with gr.Blocks(theme=gr.themes.Soft(primary_hue="orange", secondary_hue="green"), 
+#                css=".gr-button {border-radius: 10px;} .header {color: #FF5733; font-size: 2em;}") as app:
+with gr.Blocks() as app:
     gr.Markdown("# Indian Cuisine Nutrition Planner", elem_classes="header")
     gr.Markdown("Plan your meals with authentic Indian flavors!")
     
@@ -182,7 +183,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="orange", secondary_hue="green")
         with gr.Column(scale=1, min_width=300):
             goal = gr.Radio(["Weight Loss", "Maintenance", "Muscle Gain"], label="Goal", value="Maintenance")
             dietary_restrictions = gr.Textbox(label="Dietary Restrictions (e.g., vegetarian)", value="")
-            meals_per_day = gr.Slider(2, 6, value=3, step=1, label="Meals per Day")
+            meals_per_day = gr.Slider(2, 4, value=3, step=1, label="Meals per Day")
             regional_preference = gr.Dropdown(["All", "North Indian", "South Indian", "East Indian", 
                                              "West Indian"], label="Regional Preference", value="All")
             submit_btn = gr.Button("Generate Plan", variant="primary")
